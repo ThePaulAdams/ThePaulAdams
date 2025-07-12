@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 I'm Paul Adams</h2>
 
 - 🧠 AI Advocate & Senior Software Engineer at [Moneybox](https://www.moneyboxapp.com)  
-- 💳 SME in Payments, Open Banking & Operational Automation  
+- 💳 SME in Payments, Open Banking, Operational Automation and AML  
 - 🛠️ Building secure, scalable fintech systems (£10bn+ processed)  
 - 🤖 Driving AI adoption with GitHub Copilot & ChatGPT Teams  
 - 🌍 Based in Manchester, UK | Working Fully Remote  
@@ -10,7 +10,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thepauladams&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thepauladams&layout=compact&theme=dracula" height="150" />
 </div>
 
