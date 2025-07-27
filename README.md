@@ -1,11 +1,12 @@
 <h2 align="left">Hi 👋 I'm Paul Adams</h2>
 
-- 🧠 AI Advocate & Senior Software Engineer at [Moneybox](https://www.moneyboxapp.com)  
-- 💳 SME in Payments, Open Banking, Operational Automation and AML  
-- 🛠️ Building secure, scalable fintech systems (£10bn+ processed)  
-- 🤖 Driving AI adoption with GitHub Copilot & ChatGPT Teams  
-- 🌍 Based in Manchester, UK | Working Fully Remote  
-- 🎓 Mentor via Code First Girls | Top 10 Mentor (MentorScout)
+- 🧠 AI Advocate & AI-Enabled Senior Software Engineer @ [Mark43](https://mark43.com)  
+- 🏦 Previously @ Moneybox ([moneyboxapp.com](https://www.moneyboxapp.com))  
+- 💳 SME in Payments, Open Banking, AML & Operational Automation  
+- 🛠️ Built secure, scalable fintech platforms (£10bn+ processed)  
+- 🤖 Championing real-world AI adoption  
+- 🌍 Based in Manchester, UK | Fully Remote  
+- 🎓 Top 10 Mentor on MentorScout | Committed to growing others  
 
 ###
 
