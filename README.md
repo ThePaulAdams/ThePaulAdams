@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋 I'm Paul Adams</h2>
 
 - 🧠 AI Advocate & AI-Enabled Senior Software Engineer @ [Mark43](https://mark43.com)  
-- 🏦 Previously @ Moneybox ([moneyboxapp.com](https://www.moneyboxapp.com))  
+- 🏦 Previously @ Moneybox 
+- 🏦 Previously @ General Dynamcics 
 - 💳 SME in Payments, Open Banking, AML & Operational Automation  
 - 🛠️ Built secure, scalable fintech platforms (£10bn+ processed)  
 - 🤖 Championing real-world AI adoption  
