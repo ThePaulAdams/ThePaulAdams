@@ -38,12 +38,6 @@
 ###
 
 <div align="left">
-  <a href="https://whattoplant.co.uk" target="_blank">
-    <img src="https://img.shields.io/badge/🌱 WhatToPlant.co.uk-Seasonal_Garden_Helper-brightgreen?style=for-the-badge" height="28" />
-  </a>
-  <a href="https://squadshowdown.com" target="_blank">
-    <img src="https://img.shields.io/badge/🎮 SquadShowdown.com-Game_App-blueviolet?style=for-the-badge" height="28" />
-  </a>
   <a href="https://prhelper.co.uk" target="_blank">
     <img src="https://img.shields.io/badge/🛠️ PR Helper-Add_to_Slack-orange?style=for-the-badge" height="28" />
   </a>
