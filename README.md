@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/thepauladams"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="mailto:adams.paul.t@googlemail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" /></a>
   <a href="https://paulhub.uk"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=333333&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="https://ko-fi.com/thepauladams" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="35" alt="Buy Me a Coffee at ko-fi.com" /></a>
+  <a href="https://ko-fi.com/paulbuilds" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="35" alt="Buy Me a Coffee at ko-fi.com" /></a>
 </div>
 
 ###
